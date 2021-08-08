@@ -1,7 +1,7 @@
-repository: {user}/{lib_name}
+repository: sso0090/deep_down
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
+topnav_title: sso0090/deep_down
+site_title: sso0090/deep_down
 company_name: SSO
 description: A test project
 # Set to false to disable KaTeX math
